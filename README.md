@@ -1,5 +1,5 @@
 # Quadcopter
-In this project I have assembled a drone using ATMega328 as the main processing unit on both, receiving and transmitting ends. The drone has a MPU6050 integrated with it(for orientation and balancing), and HC-12 module as Transreceiver.
+In this project I have assembled a drone using ATMega328 as the main processing unit on both, receiving and transmitting ends. The drone has a MPU6050 integrated with it(for orientation and balancing), and HC-12 module as Transceiver.
 
 ## Table of contents
 * [General info](#general-info)
@@ -19,13 +19,13 @@ In this project I have assembled a drone using ATMega328 as the main processing 
   * Quadcopter consists of two batteries, a 12V Li-Po Battery (for brushless motors)& a normal 9V (for the onboard flight controller).<br>
   * There is an onboard OLED screen present for debugging & testing.
 * Communication
-  * Both sides communicate using HC-12 Transreceiver module, at a baud rate of 38400.
+  * Both sides communicate using HC-12 Transceiver module, at a baud rate of 38400.
 
 ## Technology
 Project is created with:
 * ATMega328
 * Processing
-* HC-12 Transreceiver module
+* HC-12 Transceiver module
 * MPU6050
 * ESC (30A)
 * OLED
@@ -44,7 +44,7 @@ Project is created with:
 ## Quadcopter RC
 * Consists of:
   * ATMega328/MCU
-  * Wireless module (HC-12 Transreceiver module)
+  * Wireless module (HC-12 Transceiver module)
   * Connected serially to the RC interface.
 
 ## Quadcopter flight controller
@@ -53,4 +53,4 @@ Project is created with:
   * MPU6050
   * OLED
   * ESC (30A)
-  * Wireless module (HC-12 Transreceiver module)
+  * Wireless module (HC-12 Transceiver module)

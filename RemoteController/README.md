@@ -17,7 +17,7 @@ Project is created with:
 ## Transmitter
 * Consists of:
   * ATMega328/MCU
-  * Wireless module (HC-12 Transreceiver module)
+  * Wireless module (HC-12 Transceiver module)
 1. Initialization
   ```
   #include "Wire.h"

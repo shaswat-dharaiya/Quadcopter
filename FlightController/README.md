@@ -5,7 +5,7 @@
 * [Technology](#technology)
 * [Libraries](#libraries)
 * [Receiver](#receiver)
-* [Initialization](#initialization)
+* [Initialization](#initialization)s
 
 
 ## General info
@@ -25,7 +25,7 @@ Project is created with:
   * MPU6050
   * OLED
   * ESC (30A)
-  * Wireless module (HC-12 Transreceiver module)
+  * Wireless module (HC-12 Transceiver module)
   * Voltmeter
 * Initialization
 ```
