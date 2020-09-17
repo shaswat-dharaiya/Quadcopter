@@ -1,4 +1,8 @@
 # Quadcopter
+
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![GitHub release](https://img.shields.io/github/v/release/shaswat-dharaiya/Quadcopter.svg)](https://github.com/shaswat-dharaiya/Quadcopter/releases)
+
 In this project I have assembled a drone using ATMega328 as the main processing unit on both, receiving and transmitting ends. The drone has a MPU6050 integrated with it(for orientation and balancing), and HC-12 module as Transceiver.
 
 ## Table of contents
